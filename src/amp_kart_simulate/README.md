@@ -7,9 +7,13 @@ worlds should also be added.
 
 ## Directory Tree
 
+<!-- directory-tree-check-start -->
+
 - `launch/`
   - `tb3_simulation.launch.py` _Run default turtlebot3 Nav2 simulation_
 - `urdf/`
   - `turtlebot3_waffle.urdf` _URDF description of turtlebot3 Waffle robot_
 - `worlds/`
   - `waffle.model` _turtlebot3 world model file_
+
+<!-- directory-tree-check-end -->
